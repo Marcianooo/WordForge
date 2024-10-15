@@ -2,6 +2,8 @@
 import SwiftUI
 import UIKit
 
+//Aplicativo em andamento, construindo base.
+
 struct ContentView: View {
     var body: some View {
         VStack {
